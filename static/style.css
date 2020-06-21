@@ -1,0 +1,32 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#header {
+    width: 800px;
+    height: 50px;
+    background-color: blue;
+}
+h1#header {
+    color: white;
+}
+#main {
+    width: 495px;
+    float: left;
+    background-color:orange;
+}
+#sidebar {
+    width: 295px;
+    float: right;
+    background-color: yellowgreen;
+}
+#footer {
+    clear: both;
+    width: 800px;
+    margin: 0 auto;
+    background-color: blue;
+}
+h2#footer {
+    color: white;
+}
